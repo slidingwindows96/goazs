@@ -1,0 +1,31 @@
+<?xml-stylesheet type="text/css" href="student.css" ?>
+<student-information>
+	<h1>Student Information</h1>
+	<h2>Student 1</h2>
+	<student>
+		<usn>1PE10CS026</usn>
+		<name>Anushka</name>
+		<college>PESIT, BSC</college>
+		<branch>CSE</branch>
+		<year>2019</year>
+		<email>anushka@gmail.com</email>
+	</student>
+	<h2>Student 2</h2>
+	<student>
+		<usn>1PE10CS027</usn>
+		<name>Anushri</name>
+		<college>PESIT, BSC</college>
+		<branch>CSE</branch>
+		<year>2019</year>
+		<email>anushri@gmail.com</email>
+	</student>
+	<h2>Student 3</h2>
+	<student>
+		<usn>1PE10CS001</usn>
+		<name>aashi</name>
+		<college>PESIT, BSC</college>
+		<branch>CSE</branch>
+		<year>2019</year>
+		<email>aashi@gmail.com</email>
+	</student>
+</student-information>

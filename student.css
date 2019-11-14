@@ -1,0 +1,90 @@
+h1 {
+	text-align:center;
+	display:block;
+	margin-bottom:20px; 
+	font-size:40px;
+	text-decoration:underline 
+}
+h2 {
+	display:block;
+	font-size:30px;
+	text-decoration:underline 
+}
+student-information {
+	font-family:Georgia;
+	padding:20px;
+}
+student { 
+	display:block; 
+	margin-bottom:30px; 
+	border:solid black medium;
+	padding:10px; 
+	width:30%;
+}
+
+usn { 
+	color: red; 
+	display: block;
+}
+usn:before
+{
+	content: "USN: ";
+	font-size:18px;
+	text-transform: uppercase;
+	color: blue;
+}
+name { 
+	color: brown; 
+	display: block;
+}
+name:before
+{
+	content: "NAME: ";
+	font-size:18px;
+	text-transform: uppercase;
+	color: blue;
+}
+college { 
+	color: indigo;
+	display: block; 
+}
+college:before
+{
+	content: "COLLEGE: ";
+	font-size:20px;
+	text-transform: uppercase;
+	color: blue;
+}
+email { 
+	color: orange; 
+	display: block;
+}
+email:before
+{
+	content: "EMAIL: ";
+	font-size:20px;
+	text-transform: uppercase;
+	color: blue;
+}
+branch { 
+	color: green; 
+	display: block;
+}
+branch:before
+{
+	content: "BRANCH: ";
+	font-size:20px;
+	text-transform: uppercase;
+	color: blue;
+}
+year { 
+	color: magenta; 
+	display: block;
+}
+year:before
+{
+	content: "YEAR: ";
+	font-size:20px;
+	text-transform: uppercase;
+	color: blue;
+}
